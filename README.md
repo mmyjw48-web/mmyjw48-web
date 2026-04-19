@@ -1,16 +1,56 @@
-## Hi there 👋
+## 👋 Hi, I'm Mohammed
 
-<!--
-**mmyjw48-web/mmyjw48-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Student  
+🤖 Passionate about Machine Learning & Artificial Intelligence  
+📊 Interested in Data Analysis and smart systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+I am focused on learning and building skills in Machine Learning and AI.  
+I enjoy exploring how data can be used to create intelligent solutions and real-world applications.
+
+---
+
+## 🚀 Skills
+
+### 🤖 Technical Skills
+- Machine Learning (Basics)
+- Data Analysis
+- Python (Learning)
+- Flutter (Mobile Development)
+- Firebase
+- Git & GitHub
+- Web Development (Full Stack)
+
+### 💡 Soft Skills
+- Teamwork
+- Communication
+- Critical Thinking
+
+---
+
+## 🌱 Currently Learning
+- Machine Learning algorithms  
+- Data preprocessing & analysis  
+- AI fundamentals  
+
+---
+
+## 📌 Projects
+- 💬 FireChat – Real-time chat app using Flutter & Firebase
+- 🌱 Smart Farm Assistant – An intelligent mobile application designed to support farmers in managing crops and livestock.  
+  It provides smart recommendations, disease diagnosis, and data-driven insights to improve agricultural productivity.  
+  Features include livestock health analysis, crop management, weather-based alerts, and an AI-powered assistant.
+
+---
+
+## 🤖 Interests
+- Machine Learning  
+- Artificial Intelligence  
+- Data-driven systems  
+
+---
+
+## 📫 Contact
+- Email: mmyjw48@email.com
